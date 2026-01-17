@@ -1,7 +1,7 @@
 # All unpinned blobs below are extracted from sky OS2.0.9.0.VMWMIXM 
 
-product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo|28895b08854dd5c779d16fd2c9b0b7098ae20002
-system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so
-system_ext/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so
-system_ext/lib64/libmicampostproc_client.so:system/lib64/libmicampostproc_client.so
-system_ext/lib64/vendor.xiaomi.hardware.campostproc@1.0.so:system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so;MODULE_SUFFIX=_system
+product/priv-app/MiuiCamera/MiuiCamera.apk:system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Aperture,Snap,Camera2,GoogleCameraGo|28895b08854dd5c779d16fd2c9b0b7098ae20002|28895b08854dd5c779d16fd2c9b0b7098ae20002
+system_ext/lib64/libcamera_algoup_jni.xiaomi.so:system/lib64/libcamera_algoup_jni.xiaomi.so|7e48c114215b524b933d226d9487d05882906d1a|c9bc4de5fba28f52e56141e98570f11160d32a19
+system_ext/lib64/libcamera_mianode_jni.xiaomi.so:system/lib64/libcamera_mianode_jni.xiaomi.so|bd65f6c4ed095f9ce9813601b536dd1e7297ce36|3d3d09889562578be73dda73a58b66f2baa2f720
+system_ext/lib64/libmicampostproc_client.so:system/lib64/libmicampostproc_client.so|d8fe64279064d7a60fbd8350e72a82daef7535b9|a387f9f74de0ea1caf18ce940cd6761da20581a6
+system_ext/lib64/vendor.xiaomi.hardware.campostproc@1.0.so:system/lib64/vendor.xiaomi.hardware.campostproc@1.0.so;MODULE_SUFFIX=_system|b73d79996b00b1a446d387474b081cb98b32ac92
